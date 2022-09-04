@@ -1,0 +1,13 @@
+/home/joel/Documentos/Repositorios/HolaMundo/bin/Debug/netcoreapp3.1/HolaMundo
+/home/joel/Documentos/Repositorios/HolaMundo/bin/Debug/netcoreapp3.1/HolaMundo.deps.json
+/home/joel/Documentos/Repositorios/HolaMundo/bin/Debug/netcoreapp3.1/HolaMundo.runtimeconfig.json
+/home/joel/Documentos/Repositorios/HolaMundo/bin/Debug/netcoreapp3.1/HolaMundo.runtimeconfig.dev.json
+/home/joel/Documentos/Repositorios/HolaMundo/bin/Debug/netcoreapp3.1/HolaMundo.dll
+/home/joel/Documentos/Repositorios/HolaMundo/bin/Debug/netcoreapp3.1/HolaMundo.pdb
+/home/joel/Documentos/Repositorios/HolaMundo/obj/Debug/netcoreapp3.1/HolaMundo.csprojAssemblyReference.cache
+/home/joel/Documentos/Repositorios/HolaMundo/obj/Debug/netcoreapp3.1/HolaMundo.AssemblyInfoInputs.cache
+/home/joel/Documentos/Repositorios/HolaMundo/obj/Debug/netcoreapp3.1/HolaMundo.AssemblyInfo.cs
+/home/joel/Documentos/Repositorios/HolaMundo/obj/Debug/netcoreapp3.1/HolaMundo.csproj.CoreCompileInputs.cache
+/home/joel/Documentos/Repositorios/HolaMundo/obj/Debug/netcoreapp3.1/HolaMundo.dll
+/home/joel/Documentos/Repositorios/HolaMundo/obj/Debug/netcoreapp3.1/HolaMundo.pdb
+/home/joel/Documentos/Repositorios/HolaMundo/obj/Debug/netcoreapp3.1/HolaMundo.genruntimeconfig.cache
